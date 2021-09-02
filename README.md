@@ -1,6 +1,6 @@
 # MD1
 
-## Rediìçjums no Desktop Visual Studio
+## Redigejums no Desktop Visual Studio
 
 # Tabula 1
 
